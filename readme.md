@@ -28,6 +28,8 @@ As you can clearly observe, it is the case of multi class classification having 
 
 Let's train it using simple convolutional neural network as I have declared in the test_nb notebook.
 
+Please do note one thing that kindly go through the packages those are required to successfully run the notebook.
+
 Once you train it for 10 epochs you will get to know the accuracy is quite promising.
 
 Let's try to train it with transfer learning to get more accuracy.
